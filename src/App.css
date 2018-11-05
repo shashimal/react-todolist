@@ -30,3 +30,7 @@
     transform: rotate(360deg);
   }
 }
+
+.Items {
+  padding-top: 10px;
+}
